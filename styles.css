@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header {
+    border-bottom: 1px gray solid;
+    letter-spacing: 2.5px;
+    text-align: center;
+    background-color: rgb(160, 111, 111);
+    height: 120px;
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: 0px;
+}
+
+.container {
+    display: flex;
+    color: rgb(0, 184, 250);
+    background-color: beige;
+    padding: 20px;
+}
